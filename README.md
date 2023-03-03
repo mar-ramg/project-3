@@ -41,6 +41,8 @@ Create all the CSS for your application just using CSS.
 
 Ultimately, it doesn't matter which of these options you choose—it just needs to look professional and be mobile-friendly.
 
+# Optional
+
 Payment Platform
 Consider integrating the Stripe payment platform. Even if you don’t create an e-commerce application, you could set up your site to accept charitable donations.
 
